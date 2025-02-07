@@ -1,5 +1,4 @@
 # LSTM implementation using Pytorch
-# Amazon Stock Price Prediction Using LSTM
 
 This repository contains an implementation of a Long Short-Term Memory (LSTM) model using PyTorch for predicting Amazon stock prices based on the last 7 trading sessions.
 
